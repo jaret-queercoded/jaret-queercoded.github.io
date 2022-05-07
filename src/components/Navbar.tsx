@@ -1,4 +1,4 @@
-function Navbar() {
+const Navbar = () => {
     return (
         <header className="Navbar">
             <div>
