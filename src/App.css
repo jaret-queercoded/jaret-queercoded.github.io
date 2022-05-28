@@ -40,6 +40,45 @@ mark.big {
   padding-top: 300px;
 }
 
+.WorkHistory {
+  width: 50%;
+  text-align: left;
+  float: right;
+  padding: 1em;
+}
+
+.Projects {
+  width: 50%;
+  text-align: right;
+  float: left;
+  padding-top: 1em;
+  padding-bottom: 1em;
+}
+
+.Socials {
+  color: var(--primary-color);
+  font-size: xx-large;
+  width: 10%;
+  position: fixed;
+  bottom: 0px;
+  right: 0px;
+  text-align: center;
+  
+}
+
+.Socials li {
+  list-style-type: none;
+  padding: .25em;
+}
+
+a:visited {
+  color: var(--secondary-color);
+}
+
+a {
+  color: var(--primary-color);
+}
+
 .App {
   text-align: center;
 }
