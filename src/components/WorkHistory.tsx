@@ -1,7 +1,7 @@
 const WorkHistory = () => {
     return(
         <div className="WorkHistory">
-            <p>this is my WorkHistory</p>
+            <h1>Work History</h1>
             <ul>
                 <li>Undergraduate research assistant</li>
                 <ul>

@@ -1,7 +1,7 @@
 const Projects = () => {
     return(
         <div className="Projects" dir="rtl">
-            <p>These are my Projects</p>
+            <h1>Projects</h1>
             <ul>
                 <li><a href="https://github.com/jaret-queercoded/quee">quee</a></li>
                 <ul>
