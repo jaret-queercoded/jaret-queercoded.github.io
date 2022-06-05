@@ -1,8 +1,7 @@
 const Projects = () => {
     return(
-        <div className="Projects">
+        <div className="Projects" dir="rtl">
             <p>These are my Projects</p>
-            {/* this looks like ass because of the dot is so far left */}
             <ul>
                 <li><a href="https://github.com/jaret-queercoded/quee">quee</a></li>
                 <ul>
