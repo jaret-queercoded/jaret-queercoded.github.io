@@ -7,7 +7,7 @@ import Socials from './components/Socials';
 function App() {
   return (
     <div>
-      <Navbar />
+      {/* <Navbar /> */}
       <Introduction />
       <WorkHistory />
       <Projects />
